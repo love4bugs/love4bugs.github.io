@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://love4bugs.github.io/portfolio",
+  "homepage": "https://love4bugs.github.io",
   "dependencies": {
     "@emailjs/browser": "^3.5.0",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
@@ -18,7 +18,7 @@
     "loaders.css": "^0.1.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-leaflet": "^3.2.5",
+    "react-leaflet": "^4.0.0",
     "react-loaders": "^3.0.1",
     "react-router-dom": "^6.2.2",
     "react-scripts": "^5.0.0",
